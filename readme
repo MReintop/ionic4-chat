@@ -1,0 +1,12 @@
+Clone this repository
+Install Node
+https://nodejs.org/en/download/package-manager/
+
+Install cordova
+npm install -g cordova
+
+Install ionic
+npm install -g ionic
+
+Run npm install
+npm install
